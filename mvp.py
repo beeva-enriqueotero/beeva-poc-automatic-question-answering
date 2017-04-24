@@ -36,6 +36,10 @@ def get_sentence_from_paragraph(i):
 	return mysoup.get_text()
 
 
+if (len(sys.argv) != 3):
+	print "Usage: python mvp.py <word_to_search_in_wikipedia> <number_of_sentences>"
+	sys.exit(-1)
+
 N = int(sys.argv[2])
 OFFSET = 1
 
