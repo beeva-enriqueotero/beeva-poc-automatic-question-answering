@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 
 import wikipedia
 import sys
@@ -6,25 +5,41 @@ from HTMLParser import HTMLParser
 import bs4
 import operator
 
-wikipedia.set_lang("es")
+wikipedia.set_lang("en")
 results=wikipedia.search(sys.argv[1])
 page=wikipedia.page(results[0])
 text=page.html()
 soup = bs4.BeautifulSoup(text, "html.parser")
 
 
-myhtml = soup.sup.decompose()
+soup.sup.decompose()
 
-soup = bs4.BeautifulSoup(str(soup), "html.parser")
-paragraph = str(soup.findAll('p')[1])
-
-phrases={}
-
-for line in paragraph.split('.'):
-       phrases[line]=line.count('<a ')
+paragraphs = soup.findAll('p')
 
 
-mysentence = max(phrases.iteritems(), key=operator.itemgetter(1))[0]
+def get_sentence_from_paragraph(i):
+	paragraph = str(paragraphs[i])
 
-mysoup = bs4.BeautifulSoup(mysentence, "html.parser")
-print mysoup.text
+	phrases={}
+
+	for line in paragraph.split('. '):
+       		phrases[line]=line.count('<a ')
+
+
+	mysentence = max(phrases.iteritems(), key=operator.itemgetter(1))[0]
+
+
+	mysoup = bs4.BeautifulSoup(mysentence, "html.parser")
+
+	mysoup.a.replace_with("...")
+
+	return mysoup.get_text()
+
+
+N = int(sys.argv[2])
+OFFSET = 1
+
+N = min(N,len(paragraphs) - OFFSET)
+
+sentences = map(get_sentence_from_paragraph, range(OFFSET, N+OFFSET))
+print '\n'.join(sentences)
