@@ -26,4 +26,6 @@ python mvp.py Isabel 1
 # Missing word: Hebrew
 ```
 
-
+## Question Answering
+Test MS-Cognitive https://qnamaker.ai/: From FAQ to Bot in minutes
+* Example Spanish FAQs: https://aws.amazon.com/es/ec2/faqs/
