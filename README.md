@@ -28,7 +28,8 @@ python mvp.py Isabel 1
 
 ## Question Answering
 Test MS-Cognitive https://qnamaker.ai/: From FAQ to Bot in minutes
-* Example Spanish FAQs: https://aws.amazon.com/es/ec2/faqs/
+* Example [Spanish FAQs](https://aws.amazon.com/es/ec2/faqs/)
+* Example [questions](https://github.com/beeva-enriqueotero/beeva-poc-automatic-question-answering/blob/master/data/test_qnamaker_spanish.txt)
 
 ### Results:
 * 17/40 right 
