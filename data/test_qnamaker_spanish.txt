@@ -1,0 +1,59 @@
+¿Cómo se me cobrará y facturará por utilizar Amazon EC2?
+1 Cómo se factura EC2?
+x ¿Cuánto cuesta usar el servicio de ec2?
+0 Cuánto cuesta una instancia de EC2
+x Cuál es el precio de una instancia
+
+¿Qué es una “unidad informática EC2” y por qué la ha introducido?
+1 Qué es una unidad informática ec2
+1 Para qué sirven las "unidades informáticas"
+1 Cuál es el significado del término "unidad informática"
+1 ¿Por qué es útil el concepto de unidad informática?
+
+ ¿Puedo obtener un historial de todas las llamadas al API de EC2 realizadas en mi cuenta para fines de análisis de seguridad y de solución de problemas operativos?
+1 Cómo obtener el historial de llamadas a la api de ec2?
+1 Cómo funciona el mecanismo de auditoría de llamadas al api?
+1 Me gustaría consultar el histórico de llamadas
+0 Quiero información sobre el histórico de uso y llamadas
+
+¿Por qué estoy limitado a 5 direcciones IP elásticas por región?
+1 Por qué hay un límite de ips elásticas?
+1 Cuál es el límite de ips elásticas?
+0 Existe algún límite en el uso de ips estáticas?
+0 Cuántas elastic ip puedo usar?
+
+¿Qué aislamiento existe entre las zonas de disponibilidad?
+0 ¿Cómo se aislan las zonas de disponibilidad?
+0 Cómo de aisladas están entre sí las diferentes zonas de disponibilidad
+x ¿Qué es una zona de disponibilidad?
+0 Qué son las zonas de disponibilidad
+
+¿Qué tipo de volumen debo elegir?
+1 Qué volumen EBS debería elegir?
+1 Cómo elegir que tipo de volumen me conviene?
+x Cómo decidir entre los tipos de volumen ebs
+x Qué ebs es recomendable para mis necesidades
+
+¿Tienen versiones las snapshots? ¿Puedo leer un snapshot antiguo para realizar una recuperación a un momento dado?
+1 Soportan los snapshots control de versiones?
+1 Hay control de versiones para los snapshots?
+1 Se puede restaurar un snapshot antiguo?
+1 Es posible restaurar un volumen a partir de una versión antigua de un snapshot?
+
+¿Cuál es la granularidad mínima de intervalo de tiempo para los datos que recibe y agrega Amazon CloudWatch?
+0 Cuál es el menor intervalo de tiempo que permite CloudWatch?
+x Cuál es el tiempo mínimo entre eventos Cloudwatch?
+x Cuánto tiempo mínimo entre eventos soporta Cloudwatch
+0 Cuántos segundos deben pasar entre dos alarmas cloudwatch
+
+¿Qué les ocurre a mis instancias de Amazon EC2 si elimino mi grupo de Auto Scaling?
+0 Qué pasa con las instancias de un grupo ec2 si se elimina el autoscaling?
+1 Qué sucede con las instancias de un grupo de autoescalado que se elimina?
+0 ué sucede con las instancias de un grupo de autoescalado que se elimina?
+0 que sucede con las instancias de un grupo de autoescalado que se elimina?
+
+¿Qué diferencias hay entre las IR estándares y las IR convertibles?
+x En qué se diferencia una instancia reservada estándar y una convertible
+0 Qué tipos de instancias reservadas hay y en que se diferencian
+x Cuál es la diferencia entre las instancias reservadas convertibles y las otras
+0 En qué se diferencian las instancias convertibles de las estándar
