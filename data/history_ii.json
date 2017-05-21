@@ -1,0 +1,782 @@
+[
+    {
+        "answer": "businessman",
+        "question": "Before entering politics, he was a __________ and television personality.",
+        "similar_words": [
+            "entrepreneur",
+            "merchandiser",
+            "controller",
+            "supplier"
+        ],
+        "title": "Donald Trump",
+        "url": "https://en.wikipedia.org/wiki/Donald_Trump"
+    },
+    {
+        "answer": "degree",
+        "question": "Trump was born and raised in Queens, New York City, and earned an economics __________ from the Wharton School.",
+        "similar_words": [
+            "annulment",
+            "oxtant",
+            "imperfectness",
+            "insolubility"
+        ],
+        "title": "Donald Trump",
+        "url": "https://en.wikipedia.org/wiki/Donald_Trump"
+    },
+    {
+        "answer": "firm",
+        "question": "He then took charge of The Trump Organization, the real estate and construction __________ founded by his paternal grandmother, which he ran for 45 years until 2016.",
+        "similar_words": [
+            "maker",
+            "carrier",
+            "manufacturer",
+            "agency"
+        ],
+        "title": "Donald Trump",
+        "url": "https://en.wikipedia.org/wiki/Donald_Trump"
+    },
+    {
+        "answer": "office",
+        "question": "During his real estate career, Trump built, renovated, and managed numerous __________ towers, hotels, casinos, and golf courses.",
+        "similar_words": [
+            "illumination",
+            "vigil",
+            "profession",
+            "motion"
+        ],
+        "title": "Donald Trump",
+        "url": "https://en.wikipedia.org/wiki/Donald_Trump"
+    },
+    {
+        "answer": "estate",
+        "question": "Besides real __________, he started several side ventures and has licensed the use of his name for the branding of various products and properties.",
+        "similar_words": [
+            "wealth",
+            "caste",
+            "salvage",
+            "stockholding"
+        ],
+        "title": "Donald Trump",
+        "url": "https://en.wikipedia.org/wiki/Donald_Trump"
+    },
+    {
+        "answer": "television",
+        "question": "He owned the Miss USA and Miss Universe pageants from 1996 to 2015, and he produced and hosted The Apprentice, a reality __________ series on NBC, from 2004 to 2015.",
+        "similar_words": [
+            "Rediffusion",
+            "radiocommunication",
+            "tuner",
+            "radio"
+        ],
+        "title": "Donald Trump",
+        "url": "https://en.wikipedia.org/wiki/Donald_Trump"
+    },
+    {
+        "answer": "office",
+        "question": "Trump first publicly expressed interest in running for political __________ in 1987.",
+        "similar_words": [
+            "delegacy",
+            "union",
+            "circumcision",
+            "receivership"
+        ],
+        "title": "Donald Trump",
+        "url": "https://en.wikipedia.org/wiki/Donald_Trump"
+    },
+    {
+        "answer": "candidacy",
+        "question": "He won two Reform Party presidential primaries in 2000, but withdrew his __________ early on.",
+        "similar_words": [
+            "feminism",
+            "reform",
+            "war",
+            "consumerism"
+        ],
+        "title": "Donald Trump",
+        "url": "https://en.wikipedia.org/wiki/Donald_Trump"
+    },
+    {
+        "answer": "election",
+        "question": "In June 2015, he launched his campaign for the 2016 presidential __________ and quickly emerged as the front-runner among seventeen candidates in the Republican primaries.",
+        "similar_words": [
+            "illegitimacy",
+            "left-handedness",
+            "ballot",
+            "balloting"
+        ],
+        "title": "Donald Trump",
+        "url": "https://en.wikipedia.org/wiki/Donald_Trump"
+    },
+    {
+        "answer": "mate",
+        "question": "His remaining opponents suspended their campaigns in May 2016, and in July he was formally nominated at the Republican National Convention along with Indiana governor Mike Pence as his running __________.",
+        "similar_words": [
+            "moulter",
+            "kinsperson",
+            "java",
+            "capture"
+        ],
+        "title": "Donald Trump",
+        "url": "https://en.wikipedia.org/wiki/Donald_Trump"
+    },
+    {
+        "answer": "coverage",
+        "question": "Many of his campaign statements were controversial or false, generating much free media __________.",
+        "similar_words": [
+            "gain",
+            "depth",
+            "newscast",
+            "limit"
+        ],
+        "title": "Donald Trump",
+        "url": "https://en.wikipedia.org/wiki/Donald_Trump"
+    },
+    {
+        "answer": "surprise",
+        "question": "Trump won the general election on November 8, 2016, in a __________ victory against Democratic opponent Hillary Clinton, and commenced his presidency on January 20, 2017.",
+        "similar_words": [
+            "destabilization",
+            "wonderment",
+            "breakup",
+            "easing"
+        ],
+        "title": "Donald Trump",
+        "url": "https://en.wikipedia.org/wiki/Donald_Trump"
+    },
+    {
+        "answer": "vote",
+        "question": "He became the oldest and wealthiest person ever to assume the presidency, the first without prior military or government service, and the fifth to have won the election while receiving a smaller share of the popular __________ than an opponent.",
+        "similar_words": [
+            "leadership",
+            "ulema",
+            "alliance",
+            "coloration"
+        ],
+        "title": "Donald Trump",
+        "url": "https://en.wikipedia.org/wiki/Donald_Trump"
+    },
+    {
+        "answer": "diplomat",
+        "question": "Before becoming Secretary-General, Ban was a career __________ in South Korea's Ministry of Foreign Affairs and in the United Nations.",
+        "similar_words": [
+            "moderator",
+            "make-peace",
+            "translator",
+            "recorder"
+        ],
+        "title": "Ban Ki-moon",
+        "url": "https://en.wikipedia.org/wiki/Ban_Ki-moon"
+    },
+    {
+        "answer": "post",
+        "question": "He entered diplomatic service the year he graduated from university, accepting his first __________ in New Delhi, India.",
+        "similar_words": [
+            "mass",
+            "medium",
+            "flare",
+            "dissuasion"
+        ],
+        "title": "Ban Ki-moon",
+        "url": "https://en.wikipedia.org/wiki/Ban_Ki-moon"
+    },
+    {
+        "answer": "Ban",
+        "question": "__________ was the foreign minister of South Korea from January 2004 to November 2006.",
+        "similar_words": [
+            "MB",
+            "AB",
+            "bull",
+            "ABLS"
+        ],
+        "title": "Ban Ki-moon",
+        "url": "https://en.wikipedia.org/wiki/Ban_Ki-moon"
+    },
+    {
+        "answer": "campaign",
+        "question": "In February 2006 he began to __________ for the office of Secretary-General.",
+        "similar_words": [
+            "onset",
+            "support",
+            "offensive",
+            "onrush"
+        ],
+        "title": "Ban Ki-moon",
+        "url": "https://en.wikipedia.org/wiki/Ban_Ki-moon"
+    },
+    {
+        "answer": "office",
+        "question": "Ban was initially considered to be a long shot for the __________.",
+        "similar_words": [
+            "confectionery",
+            "death",
+            "liturgy",
+            "being"
+        ],
+        "title": "Ban Ki-moon",
+        "url": "https://en.wikipedia.org/wiki/Ban_Ki-moon"
+    },
+    {
+        "answer": "campaign",
+        "question": "As foreign minister of South Korea, however, he was able to travel to all the countries on the United Nations Security Council, a maneuver that turned him into the __________'s front runner.",
+        "similar_words": [
+            "sally",
+            "danger",
+            "peril",
+            "support"
+        ],
+        "title": "Ban Ki-moon",
+        "url": "https://en.wikipedia.org/wiki/Ban_Ki-moon"
+    },
+    {
+        "answer": "employment",
+        "question": "As Secretary-General, he was responsible for several major reforms on peacekeeping and UN __________ practices.",
+        "similar_words": [
+            "degree",
+            "hunt",
+            "play",
+            "thing"
+        ],
+        "title": "Ban Ki-moon",
+        "url": "https://en.wikipedia.org/wiki/Ban_Ki-moon"
+    },
+    {
+        "answer": "world",
+        "question": "Ban was named the __________'s 32nd most powerful person by the Forbes list of The World's Most Powerful People in 2013, the highest among South Koreans.",
+        "similar_words": [
+            "rock",
+            "enemy",
+            "bourgeoisie",
+            "fragment"
+        ],
+        "title": "Ban Ki-moon",
+        "url": "https://en.wikipedia.org/wiki/Ban_Ki-moon"
+    },
+    {
+        "answer": "treaty",
+        "question": "In 2016, Foreign Policy named Ban one of the Top 100 Global Thinkers for his achievement of making the Paris Agreement a legally binding __________ less than a year after it was adopted.",
+        "similar_words": [
+            "compact",
+            "obligation",
+            "concordat",
+            "contract"
+        ],
+        "title": "Ban Ki-moon",
+        "url": "https://en.wikipedia.org/wiki/Ban_Ki-moon"
+    },
+    {
+        "answer": "successor",
+        "question": "Ant\u00f3nio Guterres was appointed by the General Assembly on 13 October 2016 to be the __________ of Ban Ki-moon as he stepped down on 31 December 2016.",
+        "similar_words": [
+            "associate",
+            "bastard",
+            "fill-in",
+            "substitute"
+        ],
+        "title": "Ban Ki-moon",
+        "url": "https://en.wikipedia.org/wiki/Ban_Ki-moon"
+    },
+    {
+        "answer": "election",
+        "question": "He was widely considered to be a potential candidate for the 2017 South Korean presidential __________, before announcing, on February 1, that he would not be running.",
+        "similar_words": [
+            "noblesse",
+            "conclusion",
+            "referendum",
+            "casting"
+        ],
+        "title": "Ban Ki-moon",
+        "url": "https://en.wikipedia.org/wiki/Ban_Ki-moon"
+    },
+    {
+        "answer": "investment",
+        "question": "He worked as an Inspector of Finances in the Inspectorate General of Finances (IGF), then became an __________ banker at Rothschild & Cie Banque.",
+        "similar_words": [
+            "security",
+            "foreskin",
+            "percentage",
+            "banking"
+        ],
+        "title": "Emmanuel Macron",
+        "url": "https://en.wikipedia.org/wiki/Emmanuel_Macron"
+    },
+    {
+        "answer": "member",
+        "question": "Macron was appointed Deputy Secretary-General in Fran\u00e7ois Hollande's first government in 2012, having been a __________ of the Socialist Party from 2006 to 2009.",
+        "similar_words": [
+            "remainder",
+            "neck",
+            "pardner",
+            "breast"
+        ],
+        "title": "Emmanuel Macron",
+        "url": "https://en.wikipedia.org/wiki/Emmanuel_Macron"
+    },
+    {
+        "answer": "Industry",
+        "question": "He was appointed Minister of Economy, __________ and Digital Affairs in 2014 under the Second Valls Government, where he pushed through business-friendly reforms.",
+        "similar_words": [
+            "transportation",
+            "indefatigableness",
+            "co-op",
+            "agriculture"
+        ],
+        "title": "Emmanuel Macron",
+        "url": "https://en.wikipedia.org/wiki/Emmanuel_Macron"
+    },
+    {
+        "answer": "election",
+        "question": "He resigned in August 2016 to launch a bid in the 2017 presidential __________.",
+        "similar_words": [
+            "face",
+            "casting",
+            "lowness",
+            "footing"
+        ],
+        "title": "Emmanuel Macron",
+        "url": "https://en.wikipedia.org/wiki/Emmanuel_Macron"
+    },
+    {
+        "answer": "election",
+        "question": "In November 2016, Macron declared that he would run in the __________ under the banner of En Marche!, a centrist political movement he founded in April 2016, and won the election on 7 May 2017.",
+        "similar_words": [
+            "sampling",
+            "toehold",
+            "vote",
+            "nationality"
+        ],
+        "title": "Emmanuel Macron",
+        "url": "https://en.wikipedia.org/wiki/Emmanuel_Macron"
+    },
+    {
+        "answer": "age",
+        "question": "Macron, at the __________ of 39, is the youngest President in the history of France.",
+        "similar_words": [
+            "twelvemonth",
+            "efflorescence",
+            "morn",
+            "vascularity"
+        ],
+        "title": "Emmanuel Macron",
+        "url": "https://en.wikipedia.org/wiki/Emmanuel_Macron"
+    },
+    {
+        "answer": "cabinet",
+        "question": "Announcement of \u00c9douard Philippe's __________ was initally set for 16 May 2017, but was later delayed to 17 May 2017.",
+        "similar_words": [
+            "lamp",
+            "bay",
+            "crankcase",
+            "fitment"
+        ],
+        "title": "Emmanuel Macron",
+        "url": "https://en.wikipedia.org/wiki/Emmanuel_Macron"
+    },
+    {
+        "answer": "union",
+        "question": "A former bus driver, Maduro rose to become a trade __________ leader, before being elected to the National Assembly in 2000.",
+        "similar_words": [
+            "company",
+            "quasi-NGO",
+            "cleavage",
+            "mission"
+        ],
+        "title": "Nicol\u00e1s Maduro",
+        "url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro"
+    },
+    {
+        "answer": "number",
+        "question": "He was appointed to a __________ of positions within the Venezuelan Government under Ch\u00e1vez, ultimately being made Foreign Minister in 2006.",
+        "similar_words": [
+            "impression",
+            "concert",
+            "key",
+            "input"
+        ],
+        "title": "Nicol\u00e1s Maduro",
+        "url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro"
+    },
+    {
+        "answer": "time",
+        "question": "He was described during this __________ as the \"most capable administrator and politician of Ch\u00e1vez's inner circle\".",
+        "similar_words": [
+            "session",
+            "depth",
+            "bimillennium",
+            "inheritance"
+        ],
+        "title": "Nicol\u00e1s Maduro",
+        "url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro"
+    },
+    {
+        "answer": "death",
+        "question": "After Ch\u00e1vez's __________ was announced on 5 March 2013, Maduro assumed the powers and responsibilities of the president.",
+        "similar_words": [
+            "stillness",
+            "relief",
+            "scintillation",
+            "receivership"
+        ],
+        "title": "Nicol\u00e1s Maduro",
+        "url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro"
+    },
+    {
+        "answer": "candidate",
+        "question": "A special election was held on 14 April 2013 to elect a new president, and Nicolas Maduro won with 50.62% of the votes as the __________ of the United Socialist Party of Venezuela.",
+        "similar_words": [
+            "squirmer",
+            "quester",
+            "life",
+            "baldhead"
+        ],
+        "title": "Nicol\u00e1s Maduro",
+        "url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro"
+    },
+    {
+        "answer": "president",
+        "question": "Since being elected __________, Maduro has ruled Venezuela by decree since 19 November 2013 As a result of Ch\u00e1vez's policies and Maduro's continuation of them, Venezuela's socioeconomic status declined, with crime, inflation, poverty and hunger increasing.",
+        "similar_words": [
+            "PM",
+            "chancellor",
+            "monarch",
+            "dean"
+        ],
+        "title": "Nicol\u00e1s Maduro",
+        "url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro"
+    },
+    {
+        "answer": "popularity",
+        "question": "Shortages in Venezuela and decreased living standards resulted in protests beginning in 2014 that escalated into daily riots nationwide by 2016, with Maduro's __________ suffering.",
+        "similar_words": [
+            "expressiveness",
+            "inutility",
+            "worldliness",
+            "spinnability"
+        ],
+        "title": "Nicol\u00e1s Maduro",
+        "url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro"
+    },
+    {
+        "answer": "authority",
+        "question": "The loss of popularity saw the election of an opposition-led National Assembly in 2015 and a movement toward recalling Maduro in 2016, though Maduro still maintains power through loyal political bodies, such as the Supreme Court and electoral __________, as well as the military.",
+        "similar_words": [
+            "transferee",
+            "whiz",
+            "proponent",
+            "adversary"
+        ],
+        "title": "Nicol\u00e1s Maduro",
+        "url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro"
+    },
+    {
+        "answer": "suspension",
+        "question": "Maduro, like Ch\u00e1vez, has been accused of authoritarian leadership with conventional media describing him as a dictator, especially following the __________ of the recall movement that was directed towards him.",
+        "similar_words": [
+            "arrest",
+            "slot",
+            "absence",
+            "metal"
+        ],
+        "title": "Nicol\u00e1s Maduro",
+        "url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro"
+    },
+    {
+        "answer": "surveillance",
+        "question": "His disclosures revealed numerous global __________ programs, many run by the NSA and the Five Eyes Intelligence Alliance with the cooperation of telecommunication companies and European governments.",
+        "similar_words": [
+            "sleuthing",
+            "roundup",
+            "detecting",
+            "forensics"
+        ],
+        "title": "Edward Snowden",
+        "url": "https://en.wikipedia.org/wiki/Edward_Snowden"
+    },
+    {
+        "answer": "employment",
+        "question": "In 2013, Snowden was hired by an NSA contractor, Booz Allen Hamilton, after previous __________ with Dell and the CIA.",
+        "similar_words": [
+            "confectionery",
+            "option",
+            "wholeness",
+            "sport"
+        ],
+        "title": "Edward Snowden",
+        "url": "https://en.wikipedia.org/wiki/Edward_Snowden"
+    },
+    {
+        "answer": "facility",
+        "question": "On May 20, 2013, Snowden flew to Hong Kong after leaving his job at an NSA __________ in Hawaii, and in early June he revealed thousands of classified NSA documents to journalists Glenn Greenwald, Laura Poitras, and Ewen MacAskill.",
+        "similar_words": [
+            "squeaker",
+            "anachronism",
+            "layer",
+            "extra"
+        ],
+        "title": "Edward Snowden",
+        "url": "https://en.wikipedia.org/wiki/Edward_Snowden"
+    },
+    {
+        "answer": "attention",
+        "question": "Snowden came to international __________ after stories based on the material appeared in The Guardian and The Washington Post.",
+        "similar_words": [
+            "procedure",
+            "lavation",
+            "sense",
+            "undertaking"
+        ],
+        "title": "Edward Snowden",
+        "url": "https://en.wikipedia.org/wiki/Edward_Snowden"
+    },
+    {
+        "answer": "government",
+        "question": "On June 21, 2013, the U.S. Department of Justice unsealed charges against Snowden of two counts of violating the Espionage Act of 1917 and theft of __________ property.",
+        "similar_words": [
+            "communization",
+            "anthroposophy",
+            "privation",
+            "demobilization"
+        ],
+        "title": "Edward Snowden",
+        "url": "https://en.wikipedia.org/wiki/Edward_Snowden"
+    },
+    {
+        "answer": "terminal",
+        "question": "Two days later, he flew into Moscow's Sheremetyevo Airport, but Russian authorities noted that his U.S. passport had been cancelled and he was restricted to the airport __________ for over one month.",
+        "similar_words": [
+            "scrambler",
+            "amplifier",
+            "set",
+            "wiper"
+        ],
+        "title": "Edward Snowden",
+        "url": "https://en.wikipedia.org/wiki/Edward_Snowden"
+    },
+    {
+        "answer": "right",
+        "question": "Russia ultimately granted him __________ of asylum for one year, and repeated extensions have permitted him to stay at least until 2020.",
+        "similar_words": [
+            "deflexion",
+            "wing",
+            "grounds",
+            "patch"
+        ],
+        "title": "Edward Snowden",
+        "url": "https://en.wikipedia.org/wiki/Edward_Snowden"
+    },
+    {
+        "answer": "world",
+        "question": "He reportedly lives in an undisclosed location in Moscow, and continues to seek asylum elsewhere in the __________.",
+        "similar_words": [
+            "doomed",
+            "craton",
+            "business",
+            "proletariat"
+        ],
+        "title": "Edward Snowden",
+        "url": "https://en.wikipedia.org/wiki/Edward_Snowden"
+    },
+    {
+        "answer": "hero",
+        "question": "A subject of controversy, Snowden has been variously called a __________, a whistleblower, a dissident, a traitor and a patriot.",
+        "similar_words": [
+            "villain",
+            "headman",
+            "monitor",
+            "bodyguard"
+        ],
+        "title": "Edward Snowden",
+        "url": "https://en.wikipedia.org/wiki/Edward_Snowden"
+    },
+    {
+        "answer": "government",
+        "question": "His disclosures have fueled debates over mass surveillance, __________ secrecy, and the balance between national security and information privacy.",
+        "similar_words": [
+            "frame",
+            "penalization",
+            "organon",
+            "discipline"
+        ],
+        "title": "Edward Snowden",
+        "url": "https://en.wikipedia.org/wiki/Edward_Snowden"
+    },
+    {
+        "answer": "secrecy",
+        "question": "Before taking power, he had barely been seen in public, and many of the activities of both Kim and his government remain shrouded in __________.",
+        "similar_words": [
+            "quarantine",
+            "alienation",
+            "insulation",
+            "anomy"
+        ],
+        "title": "Kim Jong-un",
+        "url": "https://en.wikipedia.org/wiki/Kim_Jong-un"
+    },
+    {
+        "answer": "funeral",
+        "question": "Kim was officially declared the supreme leader following the state __________ of his father on 28 December 2011.",
+        "similar_words": [
+            "memorialization",
+            "pageant",
+            "dedication",
+            "pageantry"
+        ],
+        "title": "Kim Jong-un",
+        "url": "https://en.wikipedia.org/wiki/Kim_Jong-un"
+    },
+    {
+        "answer": "Defence",
+        "question": "Kim holds the titles of Chairman of the Workers' Party of Korea, Chairman of the Central Military Commission, Chairman of the National __________ Commission, Supreme Commander of the Korean People's Army, and presidium member of the Politburo Standing Committee of the Workers' Party of Korea.",
+        "similar_words": [
+            "party",
+            "crop",
+            "shelter",
+            "cardcastle"
+        ],
+        "title": "Kim Jong-un",
+        "url": "https://en.wikipedia.org/wiki/Kim_Jong-un"
+    },
+    {
+        "answer": "state",
+        "question": "Kim was promoted to the rank of Marshal of North Korea in the Korean People's Army on 18 July 2012, consolidating his position as the Supreme Commander of the Armed Forces and is often referred to as Marshal Kim Jong-un or \"the Marshal\" by __________ media.",
+        "similar_words": [
+            "DoI",
+            "crystallizing",
+            "rapture",
+            "town"
+        ],
+        "title": "Kim Jong-un",
+        "url": "https://en.wikipedia.org/wiki/Kim_Jong-un"
+    },
+    {
+        "answer": "physics",
+        "question": "Kim obtained two degrees, one in __________ at Kim Il-sung University, and another as an Army officer at the Kim Il-sung Military University.",
+        "similar_words": [
+            "expectorant",
+            "bactericide",
+            "cure",
+            "Antabuse"
+        ],
+        "title": "Kim Jong-un",
+        "url": "https://en.wikipedia.org/wiki/Kim_Jong-un"
+    },
+    {
+        "answer": "treachery",
+        "question": "On 12 December 2013 official North Korean news outlets released reports that due to alleged \"__________,\" he had ordered the execution of his uncle Jang Song-thaek.",
+        "similar_words": [
+            "falsification",
+            "subversiveness",
+            "traitorousness",
+            "disaffection"
+        ],
+        "title": "Kim Jong-un",
+        "url": "https://en.wikipedia.org/wiki/Kim_Jong-un"
+    },
+    {
+        "answer": "founding",
+        "question": "He is the first North Korean leader born after the country's __________.",
+        "similar_words": [
+            "launching",
+            "unveiling",
+            "icebreaker",
+            "scrum"
+        ],
+        "title": "Kim Jong-un",
+        "url": "https://en.wikipedia.org/wiki/Kim_Jong-un"
+    },
+    {
+        "answer": "assassination",
+        "question": "Kim Jong-un is widely believed to have ordered the __________ of his brother, Kim Jong-nam in Malaysia in February 2017.",
+        "similar_words": [
+            "vilification",
+            "shoot-down",
+            "fratricide",
+            "massacre"
+        ],
+        "title": "Kim Jong-un",
+        "url": "https://en.wikipedia.org/wiki/Kim_Jong-un"
+    },
+    {
+        "answer": "time",
+        "question": "By the __________ he left office, he was the longest-serving head of any national government in the EU, and one of the longest-serving democratically elected leaders in the world, his tenure encompassing the height of the European financial and sovereign debt crisis.",
+        "similar_words": [
+            "quadrennium",
+            "tenuity",
+            "prime",
+            "infinite"
+        ],
+        "title": "Jean-Claude Juncker",
+        "url": "https://en.wikipedia.org/wiki/Jean-Claude_Juncker"
+    },
+    {
+        "answer": "candidate",
+        "question": "In 2014, the European People's Party (EPP) had Juncker as its lead __________, or Spitzenkandidat, for the Presidency of the Commission in the 2014 elections.",
+        "similar_words": [
+            "tempter",
+            "toreador",
+            "endomorph",
+            "adventurer"
+        ],
+        "title": "Jean-Claude Juncker",
+        "url": "https://en.wikipedia.org/wiki/Jean-Claude_Juncker"
+    },
+    {
+        "answer": "process",
+        "question": "This marked the first time that the Spitzenkandidat __________ was employed.",
+        "similar_words": [
+            "torso",
+            "energid",
+            "education",
+            "release"
+        ],
+        "title": "Jean-Claude Juncker",
+        "url": "https://en.wikipedia.org/wiki/Jean-Claude_Juncker"
+    },
+    {
+        "answer": "process",
+        "question": "Juncker is the first President that prior to the election has campaigned as a candidate for the position, a __________ introduced with the Treaty of Lisbon.",
+        "similar_words": [
+            "endeavour",
+            "measure",
+            "seat",
+            "precedency"
+        ],
+        "title": "Jean-Claude Juncker",
+        "url": "https://en.wikipedia.org/wiki/Jean-Claude_Juncker"
+    },
+    {
+        "answer": "majority",
+        "question": "On 27 June 2014, the European Council officially nominated Juncker for the position, and on 15 July 2014, the European Parliament elected him with a __________ of 422 votes from a total of 729 cast.",
+        "similar_words": [
+            "minority",
+            "null",
+            "countlessness",
+            "aught"
+        ],
+        "title": "Jean-Claude Juncker",
+        "url": "https://en.wikipedia.org/wiki/Jean-Claude_Juncker"
+    },
+    {
+        "answer": "reform",
+        "question": "Juncker stated that his priorities would be the creation of a digital single market, the development of an EU Energy Union, the negotiation of the Transatlantic Trade Agreement, the continued __________ of the Economic and Monetary Union of the European Union\u2014with the social dimension in mind\u2014and a \"targeted fiscal capacity\" for the Eurozone, as well as to negotiate a new deal with Britain.",
+        "similar_words": [
+            "consumerism",
+            "auto-suggestion",
+            "upgrade",
+            "tenderisation"
+        ],
+        "title": "Jean-Claude Juncker",
+        "url": "https://en.wikipedia.org/wiki/Jean-Claude_Juncker"
+    },
+    {
+        "answer": "leadership",
+        "question": "During his __________, Britain voted to leave the European Union in 2016.",
+        "similar_words": [
+            "education",
+            "service",
+            "organization",
+            "continuance"
+        ],
+        "title": "Jean-Claude Juncker",
+        "url": "https://en.wikipedia.org/wiki/Jean-Claude_Juncker"
+    }
+]
